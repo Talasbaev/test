@@ -1,0 +1,32 @@
+.main__courses_list{
+    display: flex;
+    flex: 0 1 30%;
+    margin-bottom: 100px;
+}
+
+.pages{
+    display: flex;
+    position: relative;
+    height: 100px;
+    width: 90%;
+    margin-left: 500px;
+    margin-bottom: 200px;
+}
+
+.left{
+    padding-left: 5px;
+    height: 25px;
+    width: 25px;
+    color: aqua;
+    border: 1px solid aqua;
+}
+.right{
+    padding-left: 5px;
+    height: 25px;
+    width: 25px;
+    color: aqua;
+    border: 1px solid aqua;
+}
+.pages_list{
+    padding: 10px 10px;
+}
